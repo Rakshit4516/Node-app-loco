@@ -32,3 +32,22 @@ Before starting, ensure you have the following installed on your system:
 ```
 
 The application is a simple Node.js web server built using the express framework. It responds with a "Hello, World!" message when accessed via HTTP.
+
+---
+
+## Screenshots
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/6a6591e3-04fa-48c7-a19c-fafcb00c9807" />
+<br/>
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/e67c57f1-7a7e-446b-b13c-280c8e0ba65d" />
+<br/>
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/7403c200-0edf-4eed-aa1e-3ae5d47b74b6" />
+<br/>
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/9f2b7108-0f68-438c-812a-4a8e5232de41" />
+<br/>
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/2cd53338-66b8-4a0e-9c57-7043dd4dab37" />
+
+---
+
+
+
+
